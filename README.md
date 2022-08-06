@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Franfs
-- 👩🏻‍🎓 Marketing Digital/MBA E-commerce e Negócios
+- 👩🏻‍🎓 Marketing Digital - Uninter / MBA E-commerce e Negócios - PUCRS
 - 🚀 SQL,R
-- 👩🏻‍💻 Caloura de Engenharia de Software 
+- 👩🏻‍💻 Caloura de Engenharia de Software - Estácio
 - 👩🏻‍🚀 =SUM(A1:A4) Data Analytics Google Certificate
 <!---
 Ainda não sei como contribuir aqui, 
